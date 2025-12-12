@@ -8,4 +8,4 @@ export const connectionToDb = async() => {
      }catch(e){
         console.error('Failed to connect to the database - ' , e.message);
      }
-}
+}//comment
