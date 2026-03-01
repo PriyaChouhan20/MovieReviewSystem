@@ -124,10 +124,6 @@ Priya Chouhan
 B.Tech Computer Science Student
 
 
-🔥 GitHub Repository Description Line
 
-Tum repo ke top me ye likh sakti ho:
-
-> A RESTful Movie Review Backend built using Node.js, Express, and MongoDB with MVC architecture.
 
 
